@@ -95,5 +95,6 @@ button{
     }
     .button{
         width: auto;
+        text-align: center;
     }
 }
